@@ -11,6 +11,7 @@ import com.devprojects.pontointeligente.api.entities.Empresa;
 import com.devprojects.pontointeligente.api.repositories.EmpresaRepository;
 import com.devprojects.pontointeligente.api.services.EmpresaService;
 
+
 @Service
 public class EmpresaServiceImpl implements EmpresaService {
 
